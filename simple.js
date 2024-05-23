@@ -1,2 +1,2 @@
 var targetValue=document.getElementById('target');
-target.style.display="none";
+targetValue.style.display="none";
